@@ -1,5 +1,6 @@
 # VSL_AI
-A graph model for Vietnamese Sign Language
+A graph model for Vietnamese Sign Language <br>
+[Link Data](https://drive.google.com/file/d/1tw28pEJ8SqAYoU78LVTE911FLXMChwRF/view?usp=sharing)
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
