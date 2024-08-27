@@ -33,9 +33,6 @@ pose_landmarks = ['LEFT_ANKLE', 'LEFT_EAR', 'LEFT_ELBOW', 'LEFT_EYE', 'LEFT_EYE_
                   'RIGHT_FOOT_INDEX', 'RIGHT_HEEL', 'RIGHT_HIP', 'RIGHT_INDEX', 'RIGHT_KNEE', 'RIGHT_PINKY', 
                   'RIGHT_SHOULDER', 'RIGHT_THUMB', 'RIGHT_WRIST']
 
-manager = Manager()
-lock = manager.Lock()
-
 class DummyFile(object):
   file = None
   def __init__(self, file):
